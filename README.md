@@ -26,9 +26,6 @@ ODBC Driver 17 for SQL Server installed.
 
 Example connection details:
 
-server = 'DESKTOP-V9VHBIC\\SQLEXPRESS'
-database = 'ChatGpt_5_Projects'
-driver = '{ODBC Driver 17 for SQL Server}'
 
  ETL Workflow
 1. Extract
